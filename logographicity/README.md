@@ -16,6 +16,7 @@
 
 ## Notes on the experiments
 Most of the experimental setup follows the original work by Sproat & Gutkin (2021).
+Following their work, the implementation code was initially based on [Tensorflow's NMT tutorial](https://www.tensorflow.org/text/tutorials/nmt_with_attention).
 The different settings specific to this experiment are:
 - 8000 samples and 2000 samples were used for the training and validation data, respectively.
 - The training was run for 10 epochs.
