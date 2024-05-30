@@ -1,4 +1,4 @@
-# NLP2024 submission: 正書法および音韻の複雑さによる音声認識の精度への影響
+# Language Complexity and Speech Recognition Accuracy
 This repository stores the final results and the code to reproduce the experiments.
 
 - `main.py`: ASR training code.
